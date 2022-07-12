@@ -1,7 +1,7 @@
 
 **[summary](#summary) | [prerequisites](#prerequisites) | [setup](#setup) | [resources](#resources) | [license](#license)**
 # Taking the Pulse of the Planet - Atmosphere
-[![License](https://img.shields.io/github/license/envgp/taking_the_pulse_atmosphere.svg)](https://github.com/envgp/taking_the_pulse_atmosphere.svg/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/envgp/taking_the_pulse_atmosphere.svg)](https://github.com/envgp/taking_the_pulse_atmosphere/blob/main/LICENSE)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/envgp/taking_the_pulse_atmosphere/HEAD?labpath=.%2Fnotebooks)
 
 This repository contains a set of Jupyter notebooks used for an undergraduate course in Stanford Sustainability School: Taking the Pulse of the Planet; a specific module of the course - `Atmosphere` is provided.
