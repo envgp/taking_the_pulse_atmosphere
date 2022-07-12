@@ -44,7 +44,7 @@ to clone the repository, and `cd` into the `taking_the_pulse_atmosphere` directo
 cd taking_the_pulse_atmosphere
 ```
 
-### Step 3: Create the AEM plot tutorial conda environment
+### Step 3: Create `tpop_atmosphere` conda environment
 
 From inside of the `taking_the_pulse_atmosphere` repository, create the `tpop_atmosphere` conda environment
 ```
